@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Apostolova8;
 - 👀 I’m interested in programming and design;
-- 🌱 I’m currently learning C++ and Landscape architecture;
+- 🌱 I’m currently working like C++ developer and studying Ecology.
 
 
 <!---
